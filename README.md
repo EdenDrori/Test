@@ -1,1 +1,1 @@
-# Test
+Welcome to my portfolio! 🎉 I showcase HTML/CSS skills, crafting captivating websites. My creativity shines through eye-catching layouts and responsive designs. Continuously learning, I strive for modern, impressive web development. Let's connect and explore together! 😊
